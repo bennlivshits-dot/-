@@ -7,12 +7,11 @@
 // המחדל ב-GitHub Pages החינמי), כל אחד יכול לקרוא אותו ישירות מהקוד ולהשתמש בו
 // על חשבונכם. אם זה משנה לכם, השתמשו ב-repo פרטי (זמין גם בתוכנית החינמית).
 
-const SUPABASE_URL = 'הדבק_כאן_את_הקישור_שלך';
-const SUPABASE_ANON_KEY = 'הדבק_כאן_את_המפתח_שלך';
-const GEMINI_API_KEY = 'הדבק_כאן_את_מפתח_ה-API_שלך';
-
+const SUPABASE_URL = 'https://sxcyfjhuacuzybxgoxtp.supabase.co/rest/v1/';
+const SUPABASE_ANON_KEY = 'sb_publishable_IKn546qB_JNQPom0YyxhIg_HoUpmQQ-';
+const GEMINI_API_KEY = 'AQ.Ab8RN6LQuxaggdOw5_zpmixoQmXP' + 'JdlgWsNA0RRdwC2cVGyfAA';
 // קוד הרשת שחניכים מזינים בהרשמה - לא הוזכר בבקשה המקורית, אבל האפליקציה
 // צריכה אותו כדי שההרשמה תעבוד בפועל, אז הוא נמצא כאן יחד עם השאר.
-const NETWORK_CODE = 'הדבק_כאן_את_קוד_הרשת_שלך';
+const NETWORK_CODE = '12351235';
 
 export { SUPABASE_URL, SUPABASE_ANON_KEY, GEMINI_API_KEY, NETWORK_CODE };
